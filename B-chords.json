@@ -1,0 +1,38 @@
+{
+    "B": {
+      "notes": ["B", "D#", "F#"],
+      "quality": "major"
+    },
+    "Bm": {
+      "notes": ["B", "D", "F#"],
+      "quality": "minor"
+    },
+    "B7": {
+      "notes": ["B", "D#", "F#", "A"],
+      "quality": "dominant 7th"
+    },
+    "Bmaj7": {
+      "notes": ["B", "D#", "F#", "A#"],
+      "quality": "major 7th"
+    },
+    "Bm7": {
+      "notes": ["B", "D", "F#", "A"],
+      "quality": "minor 7th"
+    },
+    "Bdim": {
+      "notes": ["B", "D", "F"],
+      "quality": "diminished"
+    },
+    "Baug": {
+      "notes": ["B", "D#", "G"],
+      "quality": "augmented"
+    },
+    "Bsus2": {
+      "notes": ["B", "C#", "F#"],
+      "quality": "sus2"
+    },
+    "Bsus4": {
+      "notes": ["B", "E", "F#"],
+      "quality": "sus4"
+    }
+}

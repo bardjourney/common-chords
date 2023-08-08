@@ -1,0 +1,38 @@
+{
+    "Gb": {
+      "notes": ["Gb", "Bb", "Db"],
+      "quality": "major"
+    },
+    "Gbm": {
+      "notes": ["Gb", "A", "Db"],
+      "quality": "minor"
+    },
+    "Gb7": {
+      "notes": ["Gb", "Bb", "Db", "Fb"],
+      "quality": "dominant 7th"
+    },
+    "Gbmaj7": {
+      "notes": ["Gb", "Bb", "Db", "E"],
+      "quality": "major 7th"
+    },
+    "Gbm7": {
+      "notes": ["Gb", "A", "Db", "Fb"],
+      "quality": "minor 7th"
+    },
+    "Gbdim": {
+      "notes": ["Gb", "A", "C"],
+      "quality": "diminished"
+    },
+    "Gbaug": {
+      "notes": ["Gb", "Bb", "D"],
+      "quality": "augmented"
+    },
+    "Gbsus2": {
+      "notes": ["Gb", "Ab", "Db"],
+      "quality": "sus2"
+    },
+    "Gbsus4": {
+      "notes": ["Gb", "B", "Db"],
+      "quality": "sus4"
+    }
+}

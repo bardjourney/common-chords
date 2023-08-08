@@ -1,0 +1,38 @@
+{
+    "C#": {
+      "notes": ["C#", "F", "G#"],
+      "quality": "major"
+    },
+    "C#m": {
+      "notes": ["C#", "E", "G#"],
+      "quality": "minor"
+    },
+    "C#7": {
+      "notes": ["C#", "F", "G#", "B"],
+      "quality": "dominant 7th"
+    },
+    "C#maj7": {
+      "notes": ["C#", "F", "G#", "C"],
+      "quality": "major 7th"
+    },
+    "C#m7": {
+      "notes": ["C#", "E", "G#", "B"],
+      "quality": "minor 7th"
+    },
+    "C#dim": {
+      "notes": ["C#", "E", "G"],
+      "quality": "diminished"
+    },
+    "C#aug": {
+      "notes": ["C#", "F", "A"],
+      "quality": "augmented"
+    },
+    "C#sus2": {
+      "notes": ["C#", "D#", "G#"],
+      "quality": "sus2"
+    },
+    "C#sus4": {
+      "notes": ["C#", "F#", "G#"],
+      "quality": "sus4"
+    }
+}

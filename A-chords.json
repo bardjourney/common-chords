@@ -1,0 +1,38 @@
+{
+    "A": {
+      "notes": ["A", "C#", "E"],
+      "quality": "major"
+    },
+    "Am": {
+      "notes": ["A", "C", "E"],
+      "quality": "minor"
+    },
+    "A7": {
+      "notes": ["A", "C#", "E", "G"],
+      "quality": "dominant 7th"
+    },
+    "Amaj7": {
+      "notes": ["A", "C#", "E", "G#"],
+      "quality": "major 7th"
+    },
+    "Am7": {
+      "notes": ["A", "C", "E", "G"],
+      "quality": "minor 7th"
+    },
+    "Adim": {
+      "notes": ["A", "C", "D#"],
+      "quality": "diminished"
+    },
+    "Aaug": {
+      "notes": ["A", "C#", "E#"],
+      "quality": "augmented"
+    },
+    "Asus2": {
+      "notes": ["A", "B", "E"],
+      "quality": "sus2"
+    },
+    "Asus4": {
+      "notes": ["A", "D", "E"],
+      "quality": "sus4"
+    }
+}

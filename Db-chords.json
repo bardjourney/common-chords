@@ -1,0 +1,38 @@
+{
+    "Db": {
+      "notes": ["Db", "F", "Ab"],
+      "quality": "major"
+    },
+    "Dbm": {
+      "notes": ["Db", "E", "Ab"],
+      "quality": "minor"
+    },
+    "Db7": {
+      "notes": ["Db", "F", "Ab", "Cb"],
+      "quality": "dominant 7th"
+    },
+    "Dbmaj7": {
+      "notes": ["Db", "F", "Ab", "C"],
+      "quality": "major 7th"
+    },
+    "Dbm7": {
+      "notes": ["Db", "E", "Ab", "Cb"],
+      "quality": "minor 7th"
+    },
+    "Dbdim": {
+      "notes": ["Db", "E", "Gb"],
+      "quality": "diminished"
+    },
+    "Dbaug": {
+      "notes": ["Db", "F", "A"],
+      "quality": "augmented"
+    },
+    "Dbsus2": {
+      "notes": ["Db", "Eb", "Ab"],
+      "quality": "sus2"
+    },
+    "Dbsus4": {
+      "notes": ["Db", "Gb", "Ab"],
+      "quality": "sus4"
+    }
+}

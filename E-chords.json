@@ -1,0 +1,38 @@
+{
+    "E": {
+      "notes": ["E", "G#", "B"],
+      "quality": "major"
+    },
+    "Em": {
+      "notes": ["E", "G", "B"],
+      "quality": "minor"
+    },
+    "E7": {
+      "notes": ["E", "G#", "B", "D"],
+      "quality": "dominant 7th"
+    },
+    "Emaj7": {
+      "notes": ["E", "G#", "B", "D#"],
+      "quality": "major 7th"
+    },
+    "Em7": {
+      "notes": ["E", "G", "B", "D"],
+      "quality": "minor 7th"
+    },
+    "Edim": {
+      "notes": ["E", "G", "Bb"],
+      "quality": "diminished"
+    },
+    "Eaug": {
+      "notes": ["E", "G#", "B#"],
+      "quality": "augmented"
+    },
+    "Esus2": {
+      "notes": ["E", "F#", "B"],
+      "quality": "sus2"
+    },
+    "Esus4": {
+      "notes": ["E", "A", "B"],
+      "quality": "sus4"
+    }
+}
